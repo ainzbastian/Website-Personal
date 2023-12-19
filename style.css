@@ -8,7 +8,7 @@
 .container {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../icon/Background1.jpg);
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(./icon/Background1.jpg);
     background-position: center;
     background-size: cover;
     padding-left: 8%;
@@ -93,21 +93,21 @@ h2 {
 
 .card1 {
     background-position: top;
-    background-image: url(../image/Keqing.jpg);
+    background-image: url(./image/Keqing.jpg);
 }
 
 .card2 {
-    background-image: url(../image/arturia.jpg);
+    background-image: url(./image/arturia.jpg);
 }
 
 .card3 {
     background-position: top;
-    background-image: url(../image/Westia.jpeg);
+    background-image: url(./image/Westia.jpeg);
 }
 
 .card4 {
     background-position: top;
-    background-image: url(../image/Makima.jpg);
+    background-image: url(./image/Makima.jpg);
 }
 
 p {
